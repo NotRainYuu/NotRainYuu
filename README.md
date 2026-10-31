@@ -20,7 +20,7 @@ Just a developer who likes building tools and understanding how things work unde
 - <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="16" height="16" valign="middle"/> Mostly writing scripts with **Lua / Luau** and building tools with **Python**, **Go**, and **C#**.
 - <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="16" height="16" valign="middle"/> Making utilities, automation scripts, and tinkering with game mechanics.
 - <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="16" height="16" valign="middle"/> Learning web development and experimenting with side projects in my free time.
-- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/git-branch.svg" width="16" height="16" valign="middle"/> GitHub Account: **[@Rain-Yuu](https://github.com/Rain-Yuu)**
+- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/git-branch.svg" width="16" height="16" valign="middle"/> GitHub Account: **[@NotRainYuu](https://github.com/NotRainYuu)**
 
 ---
 
@@ -69,7 +69,7 @@ Just a developer who likes building tools and understanding how things work unde
     <img src="https://img.shields.io/badge/Email-hello%40rixeldev.lol-18181b?style=for-the-badge&logo=mail.ru&logoColor=38bdf8" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Rain-Yuu">
-    <img src="https://img.shields.io/badge/GitHub-Rain--Yuu-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/NotRainYuu">
+    <img src="https://img.shields.io/badge/GitHub-NotRainYuu-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
